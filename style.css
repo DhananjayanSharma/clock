@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    overflow: hidden;
+}
+
+h1 {
+    height: 100vh;
+    color: green;
+    display: flex;
+    justify-content: center;
+    /* h */
+    align-items: center;
+    /* v */
+    
+}
